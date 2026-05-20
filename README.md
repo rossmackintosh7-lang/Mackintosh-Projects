@@ -7,7 +7,7 @@ Project home for Mackintosh Projects.
 - GitHub repo: `rossmackintosh7-lang/mackintosh-projects`
 - Production branch: `main`
 - Framework preset: `None`
-- Build command: leave blank
+- Build command: `exit 0`
 - Build output directory: `.`
 - Project name: `mackintosh-projects`
 

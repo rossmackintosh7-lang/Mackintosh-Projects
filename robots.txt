@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mackintoshprojects.co.uk/sitemap.xml
+Sitemap: https://mackintoshprojects.co.uk/sitemap.xml
